@@ -1,0 +1,36 @@
+body {
+  border: 20em solid #e2ac7f;
+  padding-right:3em;
+  padding-left: 3em;
+  background-color: #f5f5dc;
+  
+}
+
+h1 {
+  border-bottom: : 1em solid #69b;
+  font-family: Impact;
+  font-size: 32px;
+  text-align: center;
+}
+
+#what_is_this {
+  font-family: Verdana;
+  font-size: 12px;
+  font-weight: 100;
+  text-align: left
+}
+p.sonnet_lines{
+  font-family: Verdana;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+}
+
+footer {
+    font-family: Verdana;
+    font-size: 10px;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
